@@ -1,5 +1,8 @@
 # lab-05-ece230l-jack-elliot-mark-moorefield
 
+## Lab Summary
+In this lab we were asked to find the min-term and the max-term for two different k-maps. Once we found them we were asked to implement the SOP and POS functions into 2 different files and modules. After we had done that we had to use top.v file to connect the two functions and make one of the inputs of the second equation the result of the first equation. Once we were confident that we had done it correctly we used the basys board to test that the inputs and outputs on the board match what was shown on the truth table in the lab document. It was our first time using two different three different modules at the same time (the first circuit, the second circuit, and the top file which was used to connect the two), and it showed us what was possible for future labs which will almost certainly use more than two functions at the same time. 
+
 ## Lab Questions
 
 ### 1 - Explain the role of the Top Level file.
